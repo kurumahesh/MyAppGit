@@ -9,5 +9,6 @@ int main() {
 	c=a+b;
 	   
     printf("Enter two integers: = %d",c);
+	printf("Enter two integers: = %d",a);
     getche();
 }
